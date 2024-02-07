@@ -1,7 +1,7 @@
 // images
 import customerProblemImage from '../assets/images/solve-customer problems.svg'
 import benefitsToCustomer from '../assets/images/benefits-to-your-customers.svg'
-import intelliverseLabImage from '../assets/images/intelliverse-lab.svg'
+// import intelliverseLabImage from '../assets/images/intelliverse-lab.svg'
 
 export const BenefitsData = 
     {
@@ -18,7 +18,7 @@ export const BenefitsData =
         BetterOutComes:{
             title: 'Complete Visibility',
             description: 'As companies are still scrambling to adapt to the new remote business environment we would like to help keep your business moving by offering our IntelliDialer, perfect for remote teams, for Free for a 2 week trial! Being able to use any phone anywhere will keep Sales Agents on the phone no matter where they are located. Since the IntelliDialer automatically logs all calls and recordings Management can have complete confidence that all data going into Salesforce is clean and accurate. With our detailed, custom and real-time analytics Management will have complete visibility into their team’s daily activities so they can ensure activity goals are consistently being met and have the predictability to resolve issues before they become revenue impacting. This will save valuable management time and ensure 100% of the team stays focused on right activities with complete visibility and immediate feedback. Let us help you grow your business with the best tool for remote sales teams!',
-            image: intelliverseLabImage
+            //image: intelliverseLabImage
         }
     }
     
